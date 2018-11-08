@@ -1,0 +1,1199 @@
+{
+  "weapons": {
+    "weapon-3": {
+      "count": 74, 
+      "diameter": 83, 
+      "reload speed": 69, 
+      "rotational speed": 63, 
+      "power volley": 74
+    }, 
+    "weapon-2": {
+      "count": 92, 
+      "diameter": 50, 
+      "reload speed": 1, 
+      "rotational speed": 22, 
+      "power volley": 17
+    }, 
+    "weapon-1": {
+      "count": 49, 
+      "diameter": 93, 
+      "reload speed": 23, 
+      "rotational speed": 91, 
+      "power volley": 34
+    }, 
+    "weapon-14": {
+      "count": 92, 
+      "diameter": 90, 
+      "reload speed": 59, 
+      "rotational speed": 93, 
+      "power volley": 87
+    }, 
+    "weapon-7": {
+      "count": 96, 
+      "diameter": 51, 
+      "reload speed": 79, 
+      "rotational speed": 62, 
+      "power volley": 85
+    }, 
+    "weapon-6": {
+      "count": 74, 
+      "diameter": 1, 
+      "reload speed": 28, 
+      "rotational speed": 38, 
+      "power volley": 79
+    }, 
+    "weapon-5": {
+      "count": 91, 
+      "diameter": 45, 
+      "reload speed": 11, 
+      "rotational speed": 16, 
+      "power volley": 85
+    }, 
+    "weapon-4": {
+      "count": 18, 
+      "diameter": 39, 
+      "reload speed": 91, 
+      "rotational speed": 76, 
+      "power volley": 13
+    }, 
+    "weapon-18": {
+      "count": 57, 
+      "diameter": 90, 
+      "reload speed": 64, 
+      "rotational speed": 45, 
+      "power volley": 8
+    }, 
+    "weapon-9": {
+      "count": 24, 
+      "diameter": 79, 
+      "reload speed": 44, 
+      "rotational speed": 36, 
+      "power volley": 2
+    }, 
+    "weapon-8": {
+      "count": 82, 
+      "diameter": 64, 
+      "reload speed": 95, 
+      "rotational speed": 8, 
+      "power volley": 53
+    }, 
+    "weapon-15": {
+      "count": 40, 
+      "diameter": 67, 
+      "reload speed": 59, 
+      "rotational speed": 35, 
+      "power volley": 94
+    }, 
+    "weapon-19": {
+      "count": 54, 
+      "diameter": 45, 
+      "reload speed": 84, 
+      "rotational speed": 13, 
+      "power volley": 70
+    }, 
+    "weapon-10": {
+      "count": 33, 
+      "diameter": 11, 
+      "reload speed": 67, 
+      "rotational speed": 42, 
+      "power volley": 31
+    }, 
+    "weapon-11": {
+      "count": 8, 
+      "diameter": 55, 
+      "reload speed": 21, 
+      "rotational speed": 84, 
+      "power volley": 4
+    }, 
+    "weapon-20": {
+      "count": 13, 
+      "diameter": 50, 
+      "reload speed": 8, 
+      "rotational speed": 44, 
+      "power volley": 85
+    }, 
+    "weapon-13": {
+      "count": 71, 
+      "diameter": 94, 
+      "reload speed": 15, 
+      "rotational speed": 70, 
+      "power volley": 78
+    }, 
+    "weapon-16": {
+      "count": 91, 
+      "diameter": 35, 
+      "reload speed": 77, 
+      "rotational speed": 14, 
+      "power volley": 56
+    }, 
+    "weapon-17": {
+      "count": 85, 
+      "diameter": 75, 
+      "reload speed": 7, 
+      "rotational speed": 87, 
+      "power volley": 23
+    }, 
+    "weapon-12": {
+      "count": 94, 
+      "diameter": 88, 
+      "reload speed": 14, 
+      "rotational speed": 38, 
+      "power volley": 63
+    }
+  }, 
+  "hulls": {
+    "hull-1": {
+      "armor": 53, 
+      "engine": 7, 
+      "type": 95
+    }, 
+    "hull-2": {
+      "armor": 20, 
+      "engine": 38, 
+      "type": 59
+    }, 
+    "hull-3": {
+      "armor": 67, 
+      "engine": 99, 
+      "type": 21
+    }, 
+    "hull-4": {
+      "armor": 22, 
+      "engine": 43, 
+      "type": 92
+    }, 
+    "hull-5": {
+      "armor": 56, 
+      "engine": 75, 
+      "type": 89
+    }
+  }, 
+  "ships": {
+    "ship-19": {
+      "engine": "engine-3", 
+      "hull": "hull-3", 
+      "weapon": "weapon-7"
+    }, 
+    "ship-18": {
+      "engine": "engine-3", 
+      "hull": "hull-1", 
+      "weapon": "weapon-6"
+    }, 
+    "ship-13": {
+      "engine": "engine-3", 
+      "hull": "hull-5", 
+      "weapon": "weapon-4"
+    }, 
+    "ship-12": {
+      "engine": "engine-6", 
+      "hull": "hull-4", 
+      "weapon": "weapon-18"
+    }, 
+    "ship-11": {
+      "engine": "engine-5", 
+      "hull": "hull-3", 
+      "weapon": "weapon-8"
+    }, 
+    "ship-10": {
+      "engine": "engine-4", 
+      "hull": "hull-3", 
+      "weapon": "weapon-17"
+    }, 
+    "ship-17": {
+      "engine": "engine-3", 
+      "hull": "hull-2", 
+      "weapon": "weapon-1"
+    }, 
+    "ship-16": {
+      "engine": "engine-2", 
+      "hull": "hull-5", 
+      "weapon": "weapon-1"
+    }, 
+    "ship-15": {
+      "engine": "engine-4", 
+      "hull": "hull-2", 
+      "weapon": "weapon-20"
+    }, 
+    "ship-14": {
+      "engine": "engine-1", 
+      "hull": "hull-2", 
+      "weapon": "weapon-2"
+    }, 
+    "ship-140": {
+      "engine": "engine-5", 
+      "hull": "hull-5", 
+      "weapon": "weapon-10"
+    }, 
+    "ship-141": {
+      "engine": "engine-1", 
+      "hull": "hull-5", 
+      "weapon": "weapon-7"
+    }, 
+    "ship-142": {
+      "engine": "engine-6", 
+      "hull": "hull-4", 
+      "weapon": "weapon-3"
+    }, 
+    "ship-143": {
+      "engine": "engine-2", 
+      "hull": "hull-5", 
+      "weapon": "weapon-10"
+    }, 
+    "ship-144": {
+      "engine": "engine-2", 
+      "hull": "hull-5", 
+      "weapon": "weapon-1"
+    }, 
+    "ship-145": {
+      "engine": "engine-6", 
+      "hull": "hull-1", 
+      "weapon": "weapon-2"
+    }, 
+    "ship-146": {
+      "engine": "engine-4", 
+      "hull": "hull-3", 
+      "weapon": "weapon-13"
+    }, 
+    "ship-147": {
+      "engine": "engine-1", 
+      "hull": "hull-2", 
+      "weapon": "weapon-1"
+    }, 
+    "ship-148": {
+      "engine": "engine-5", 
+      "hull": "hull-4", 
+      "weapon": "weapon-10"
+    }, 
+    "ship-149": {
+      "engine": "engine-2", 
+      "hull": "hull-5", 
+      "weapon": "weapon-17"
+    }, 
+    "ship-153": {
+      "engine": "engine-5", 
+      "hull": "hull-3", 
+      "weapon": "weapon-3"
+    }, 
+    "ship-152": {
+      "engine": "engine-6", 
+      "hull": "hull-2", 
+      "weapon": "weapon-20"
+    }, 
+    "ship-165": {
+      "engine": "engine-6", 
+      "hull": "hull-2", 
+      "weapon": "weapon-4"
+    }, 
+    "ship-151": {
+      "engine": "engine-5", 
+      "hull": "hull-3", 
+      "weapon": "weapon-10"
+    }, 
+    "ship-150": {
+      "engine": "engine-3", 
+      "hull": "hull-1", 
+      "weapon": "weapon-3"
+    }, 
+    "ship-187": {
+      "engine": "engine-2", 
+      "hull": "hull-5", 
+      "weapon": "weapon-20"
+    }, 
+    "ship-157": {
+      "engine": "engine-2", 
+      "hull": "hull-3", 
+      "weapon": "weapon-11"
+    }, 
+    "ship-156": {
+      "engine": "engine-6", 
+      "hull": "hull-3", 
+      "weapon": "weapon-16"
+    }, 
+    "ship-93": {
+      "engine": "engine-6", 
+      "hull": "hull-3", 
+      "weapon": "weapon-13"
+    }, 
+    "ship-92": {
+      "engine": "engine-2", 
+      "hull": "hull-3", 
+      "weapon": "weapon-2"
+    }, 
+    "ship-91": {
+      "engine": "engine-5", 
+      "hull": "hull-4", 
+      "weapon": "weapon-18"
+    }, 
+    "ship-90": {
+      "engine": "engine-6", 
+      "hull": "hull-3", 
+      "weapon": "weapon-9"
+    }, 
+    "ship-97": {
+      "engine": "engine-5", 
+      "hull": "hull-5", 
+      "weapon": "weapon-13"
+    }, 
+    "ship-96": {
+      "engine": "engine-3", 
+      "hull": "hull-5", 
+      "weapon": "weapon-11"
+    }, 
+    "ship-95": {
+      "engine": "engine-1", 
+      "hull": "hull-4", 
+      "weapon": "weapon-11"
+    }, 
+    "ship-94": {
+      "engine": "engine-1", 
+      "hull": "hull-5", 
+      "weapon": "weapon-20"
+    }, 
+    "ship-167": {
+      "engine": "engine-6", 
+      "hull": "hull-2", 
+      "weapon": "weapon-7"
+    }, 
+    "ship-99": {
+      "engine": "engine-3", 
+      "hull": "hull-3", 
+      "weapon": "weapon-12"
+    }, 
+    "ship-98": {
+      "engine": "engine-6", 
+      "hull": "hull-4", 
+      "weapon": "weapon-14"
+    }, 
+    "ship-108": {
+      "engine": "engine-4", 
+      "hull": "hull-3", 
+      "weapon": "weapon-16"
+    }, 
+    "ship-159": {
+      "engine": "engine-3", 
+      "hull": "hull-3", 
+      "weapon": "weapon-20"
+    }, 
+    "ship-109": {
+      "engine": "engine-6", 
+      "hull": "hull-1", 
+      "weapon": "weapon-18"
+    }, 
+    "ship-158": {
+      "engine": "engine-5", 
+      "hull": "hull-1", 
+      "weapon": "weapon-1"
+    }, 
+    "ship-164": {
+      "engine": "engine-3", 
+      "hull": "hull-3", 
+      "weapon": "weapon-13"
+    }, 
+    "ship-106": {
+      "engine": "engine-1", 
+      "hull": "hull-1", 
+      "weapon": "weapon-10"
+    }, 
+    "ship-80": {
+      "engine": "engine-6", 
+      "hull": "hull-2", 
+      "weapon": "weapon-17"
+    }, 
+    "ship-81": {
+      "engine": "engine-6", 
+      "hull": "hull-4", 
+      "weapon": "weapon-16"
+    }, 
+    "ship-82": {
+      "engine": "engine-5", 
+      "hull": "hull-4", 
+      "weapon": "weapon-8"
+    }, 
+    "ship-83": {
+      "engine": "engine-3", 
+      "hull": "hull-4", 
+      "weapon": "weapon-18"
+    }, 
+    "ship-84": {
+      "engine": "engine-3", 
+      "hull": "hull-5", 
+      "weapon": "weapon-6"
+    }, 
+    "ship-85": {
+      "engine": "engine-2", 
+      "hull": "hull-5", 
+      "weapon": "weapon-7"
+    }, 
+    "ship-86": {
+      "engine": "engine-5", 
+      "hull": "hull-1", 
+      "weapon": "weapon-12"
+    }, 
+    "ship-87": {
+      "engine": "engine-1", 
+      "hull": "hull-2", 
+      "weapon": "weapon-8"
+    }, 
+    "ship-88": {
+      "engine": "engine-3", 
+      "hull": "hull-5", 
+      "weapon": "weapon-4"
+    }, 
+    "ship-89": {
+      "engine": "engine-3", 
+      "hull": "hull-2", 
+      "weapon": "weapon-6"
+    }, 
+    "ship-168": {
+      "engine": "engine-4", 
+      "hull": "hull-4", 
+      "weapon": "weapon-6"
+    }, 
+    "ship-169": {
+      "engine": "engine-2", 
+      "hull": "hull-1", 
+      "weapon": "weapon-9"
+    }, 
+    "ship-194": {
+      "engine": "engine-2", 
+      "hull": "hull-5", 
+      "weapon": "weapon-3"
+    }, 
+    "ship-179": {
+      "engine": "engine-3", 
+      "hull": "hull-1", 
+      "weapon": "weapon-14"
+    }, 
+    "ship-178": {
+      "engine": "engine-1", 
+      "hull": "hull-1", 
+      "weapon": "weapon-11"
+    }, 
+    "ship-107": {
+      "engine": "engine-4", 
+      "hull": "hull-4", 
+      "weapon": "weapon-19"
+    }, 
+    "ship-170": {
+      "engine": "engine-1", 
+      "hull": "hull-2", 
+      "weapon": "weapon-6"
+    }, 
+    "ship-173": {
+      "engine": "engine-2", 
+      "hull": "hull-4", 
+      "weapon": "weapon-14"
+    }, 
+    "ship-172": {
+      "engine": "engine-3", 
+      "hull": "hull-2", 
+      "weapon": "weapon-1"
+    }, 
+    "ship-175": {
+      "engine": "engine-4", 
+      "hull": "hull-2", 
+      "weapon": "weapon-2"
+    }, 
+    "ship-174": {
+      "engine": "engine-6", 
+      "hull": "hull-3", 
+      "weapon": "weapon-20"
+    }, 
+    "ship-177": {
+      "engine": "engine-6", 
+      "hull": "hull-4", 
+      "weapon": "weapon-12"
+    }, 
+    "ship-176": {
+      "engine": "engine-5", 
+      "hull": "hull-4", 
+      "weapon": "weapon-8"
+    }, 
+    "ship-200": {
+      "engine": "engine-5", 
+      "hull": "hull-5", 
+      "weapon": "weapon-14"
+    }, 
+    "ship-171": {
+      "engine": "engine-5", 
+      "hull": "hull-4", 
+      "weapon": "weapon-11"
+    }, 
+    "ship-35": {
+      "engine": "engine-5", 
+      "hull": "hull-2", 
+      "weapon": "weapon-1"
+    }, 
+    "ship-34": {
+      "engine": "engine-1", 
+      "hull": "hull-4", 
+      "weapon": "weapon-12"
+    }, 
+    "ship-37": {
+      "engine": "engine-5", 
+      "hull": "hull-2", 
+      "weapon": "weapon-9"
+    }, 
+    "ship-36": {
+      "engine": "engine-5", 
+      "hull": "hull-2", 
+      "weapon": "weapon-13"
+    }, 
+    "ship-31": {
+      "engine": "engine-1", 
+      "hull": "hull-1", 
+      "weapon": "weapon-7"
+    }, 
+    "ship-30": {
+      "engine": "engine-2", 
+      "hull": "hull-3", 
+      "weapon": "weapon-13"
+    }, 
+    "ship-33": {
+      "engine": "engine-2", 
+      "hull": "hull-1", 
+      "weapon": "weapon-4"
+    }, 
+    "ship-32": {
+      "engine": "engine-6", 
+      "hull": "hull-3", 
+      "weapon": "weapon-15"
+    }, 
+    "ship-39": {
+      "engine": "engine-2", 
+      "hull": "hull-1", 
+      "weapon": "weapon-1"
+    }, 
+    "ship-38": {
+      "engine": "engine-2", 
+      "hull": "hull-5", 
+      "weapon": "weapon-6"
+    }, 
+    "ship-57": {
+      "engine": "engine-4", 
+      "hull": "hull-3", 
+      "weapon": "weapon-19"
+    }, 
+    "ship-56": {
+      "engine": "engine-2", 
+      "hull": "hull-3", 
+      "weapon": "weapon-5"
+    }, 
+    "ship-55": {
+      "engine": "engine-6", 
+      "hull": "hull-4", 
+      "weapon": "weapon-15"
+    }, 
+    "ship-54": {
+      "engine": "engine-3", 
+      "hull": "hull-2", 
+      "weapon": "weapon-4"
+    }, 
+    "ship-53": {
+      "engine": "engine-2", 
+      "hull": "hull-1", 
+      "weapon": "weapon-13"
+    }, 
+    "ship-52": {
+      "engine": "engine-1", 
+      "hull": "hull-5", 
+      "weapon": "weapon-3"
+    }, 
+    "ship-51": {
+      "engine": "engine-5", 
+      "hull": "hull-2", 
+      "weapon": "weapon-1"
+    }, 
+    "ship-50": {
+      "engine": "engine-2", 
+      "hull": "hull-4", 
+      "weapon": "weapon-17"
+    }, 
+    "ship-59": {
+      "engine": "engine-3", 
+      "hull": "hull-2", 
+      "weapon": "weapon-6"
+    }, 
+    "ship-58": {
+      "engine": "engine-3", 
+      "hull": "hull-1", 
+      "weapon": "weapon-5"
+    }, 
+    "ship-3": {
+      "engine": "engine-6", 
+      "hull": "hull-5", 
+      "weapon": "weapon-1"
+    }, 
+    "ship-2": {
+      "engine": "engine-1", 
+      "hull": "hull-5", 
+      "weapon": "weapon-1"
+    }, 
+    "ship-1": {
+      "engine": "engine-1", 
+      "hull": "hull-2", 
+      "weapon": "weapon-20"
+    }, 
+    "ship-7": {
+      "engine": "engine-6", 
+      "hull": "hull-2", 
+      "weapon": "weapon-9"
+    }, 
+    "ship-6": {
+      "engine": "engine-6", 
+      "hull": "hull-2", 
+      "weapon": "weapon-3"
+    }, 
+    "ship-5": {
+      "engine": "engine-2", 
+      "hull": "hull-1", 
+      "weapon": "weapon-11"
+    }, 
+    "ship-4": {
+      "engine": "engine-1", 
+      "hull": "hull-3", 
+      "weapon": "weapon-6"
+    }, 
+    "ship-104": {
+      "engine": "engine-1", 
+      "hull": "hull-1", 
+      "weapon": "weapon-5"
+    }, 
+    "ship-105": {
+      "engine": "engine-5", 
+      "hull": "hull-3", 
+      "weapon": "weapon-4"
+    }, 
+    "ship-9": {
+      "engine": "engine-2", 
+      "hull": "hull-5", 
+      "weapon": "weapon-13"
+    }, 
+    "ship-8": {
+      "engine": "engine-1", 
+      "hull": "hull-3", 
+      "weapon": "weapon-9"
+    }, 
+    "ship-100": {
+      "engine": "engine-5", 
+      "hull": "hull-4", 
+      "weapon": "weapon-8"
+    }, 
+    "ship-101": {
+      "engine": "engine-2", 
+      "hull": "hull-2", 
+      "weapon": "weapon-17"
+    }, 
+    "ship-102": {
+      "engine": "engine-1", 
+      "hull": "hull-5", 
+      "weapon": "weapon-1"
+    }, 
+    "ship-103": {
+      "engine": "engine-4", 
+      "hull": "hull-4", 
+      "weapon": "weapon-2"
+    }, 
+    "ship-184": {
+      "engine": "engine-4", 
+      "hull": "hull-4", 
+      "weapon": "weapon-4"
+    }, 
+    "ship-185": {
+      "engine": "engine-3", 
+      "hull": "hull-5", 
+      "weapon": "weapon-2"
+    }, 
+    "ship-186": {
+      "engine": "engine-3", 
+      "hull": "hull-5", 
+      "weapon": "weapon-15"
+    }, 
+    "ship-22": {
+      "engine": "engine-5", 
+      "hull": "hull-3", 
+      "weapon": "weapon-19"
+    }, 
+    "ship-23": {
+      "engine": "engine-3", 
+      "hull": "hull-5", 
+      "weapon": "weapon-20"
+    }, 
+    "ship-20": {
+      "engine": "engine-2", 
+      "hull": "hull-4", 
+      "weapon": "weapon-17"
+    }, 
+    "ship-21": {
+      "engine": "engine-4", 
+      "hull": "hull-3", 
+      "weapon": "weapon-18"
+    }, 
+    "ship-26": {
+      "engine": "engine-4", 
+      "hull": "hull-3", 
+      "weapon": "weapon-11"
+    }, 
+    "ship-27": {
+      "engine": "engine-1", 
+      "hull": "hull-1", 
+      "weapon": "weapon-17"
+    }, 
+    "ship-24": {
+      "engine": "engine-3", 
+      "hull": "hull-5", 
+      "weapon": "weapon-20"
+    }, 
+    "ship-25": {
+      "engine": "engine-4", 
+      "hull": "hull-3", 
+      "weapon": "weapon-8"
+    }, 
+    "ship-180": {
+      "engine": "engine-1", 
+      "hull": "hull-1", 
+      "weapon": "weapon-15"
+    }, 
+    "ship-28": {
+      "engine": "engine-4", 
+      "hull": "hull-2", 
+      "weapon": "weapon-10"
+    }, 
+    "ship-29": {
+      "engine": "engine-3", 
+      "hull": "hull-1", 
+      "weapon": "weapon-11"
+    }, 
+    "ship-188": {
+      "engine": "engine-2", 
+      "hull": "hull-1", 
+      "weapon": "weapon-2"
+    }, 
+    "ship-189": {
+      "engine": "engine-3", 
+      "hull": "hull-2", 
+      "weapon": "weapon-16"
+    }, 
+    "ship-181": {
+      "engine": "engine-2", 
+      "hull": "hull-3", 
+      "weapon": "weapon-10"
+    }, 
+    "ship-44": {
+      "engine": "engine-2", 
+      "hull": "hull-4", 
+      "weapon": "weapon-1"
+    }, 
+    "ship-45": {
+      "engine": "engine-2", 
+      "hull": "hull-1", 
+      "weapon": "weapon-4"
+    }, 
+    "ship-46": {
+      "engine": "engine-6", 
+      "hull": "hull-3", 
+      "weapon": "weapon-20"
+    }, 
+    "ship-47": {
+      "engine": "engine-1", 
+      "hull": "hull-5", 
+      "weapon": "weapon-15"
+    }, 
+    "ship-40": {
+      "engine": "engine-5", 
+      "hull": "hull-5", 
+      "weapon": "weapon-1"
+    }, 
+    "ship-41": {
+      "engine": "engine-2", 
+      "hull": "hull-5", 
+      "weapon": "weapon-13"
+    }, 
+    "ship-42": {
+      "engine": "engine-2", 
+      "hull": "hull-5", 
+      "weapon": "weapon-18"
+    }, 
+    "ship-43": {
+      "engine": "engine-3", 
+      "hull": "hull-5", 
+      "weapon": "weapon-9"
+    }, 
+    "ship-183": {
+      "engine": "engine-2", 
+      "hull": "hull-2", 
+      "weapon": "weapon-11"
+    }, 
+    "ship-48": {
+      "engine": "engine-1", 
+      "hull": "hull-5", 
+      "weapon": "weapon-16"
+    }, 
+    "ship-49": {
+      "engine": "engine-5", 
+      "hull": "hull-5", 
+      "weapon": "weapon-15"
+    }, 
+    "ship-119": {
+      "engine": "engine-4", 
+      "hull": "hull-2", 
+      "weapon": "weapon-10"
+    }, 
+    "ship-118": {
+      "engine": "engine-1", 
+      "hull": "hull-1", 
+      "weapon": "weapon-10"
+    }, 
+    "ship-117": {
+      "engine": "engine-2", 
+      "hull": "hull-2", 
+      "weapon": "weapon-16"
+    }, 
+    "ship-116": {
+      "engine": "engine-5", 
+      "hull": "hull-2", 
+      "weapon": "weapon-5"
+    }, 
+    "ship-115": {
+      "engine": "engine-4", 
+      "hull": "hull-3", 
+      "weapon": "weapon-16"
+    }, 
+    "ship-114": {
+      "engine": "engine-4", 
+      "hull": "hull-1", 
+      "weapon": "weapon-11"
+    }, 
+    "ship-113": {
+      "engine": "engine-4", 
+      "hull": "hull-2", 
+      "weapon": "weapon-10"
+    }, 
+    "ship-112": {
+      "engine": "engine-5", 
+      "hull": "hull-2", 
+      "weapon": "weapon-6"
+    }, 
+    "ship-111": {
+      "engine": "engine-3", 
+      "hull": "hull-5", 
+      "weapon": "weapon-11"
+    }, 
+    "ship-110": {
+      "engine": "engine-4", 
+      "hull": "hull-1", 
+      "weapon": "weapon-1"
+    }, 
+    "ship-155": {
+      "engine": "engine-2", 
+      "hull": "hull-5", 
+      "weapon": "weapon-17"
+    }, 
+    "ship-197": {
+      "engine": "engine-1", 
+      "hull": "hull-2", 
+      "weapon": "weapon-12"
+    }, 
+    "ship-196": {
+      "engine": "engine-3", 
+      "hull": "hull-3", 
+      "weapon": "weapon-16"
+    }, 
+    "ship-195": {
+      "engine": "engine-1", 
+      "hull": "hull-2", 
+      "weapon": "weapon-3"
+    }, 
+    "ship-182": {
+      "engine": "engine-2", 
+      "hull": "hull-1", 
+      "weapon": "weapon-19"
+    }, 
+    "ship-193": {
+      "engine": "engine-1", 
+      "hull": "hull-3", 
+      "weapon": "weapon-14"
+    }, 
+    "ship-192": {
+      "engine": "engine-3", 
+      "hull": "hull-3", 
+      "weapon": "weapon-18"
+    }, 
+    "ship-191": {
+      "engine": "engine-5", 
+      "hull": "hull-1", 
+      "weapon": "weapon-10"
+    }, 
+    "ship-190": {
+      "engine": "engine-5", 
+      "hull": "hull-4", 
+      "weapon": "weapon-17"
+    }, 
+    "ship-199": {
+      "engine": "engine-2", 
+      "hull": "hull-1", 
+      "weapon": "weapon-14"
+    }, 
+    "ship-198": {
+      "engine": "engine-4", 
+      "hull": "hull-3", 
+      "weapon": "weapon-5"
+    }, 
+    "ship-71": {
+      "engine": "engine-3", 
+      "hull": "hull-4", 
+      "weapon": "weapon-10"
+    }, 
+    "ship-70": {
+      "engine": "engine-5", 
+      "hull": "hull-3", 
+      "weapon": "weapon-20"
+    }, 
+    "ship-73": {
+      "engine": "engine-5", 
+      "hull": "hull-1", 
+      "weapon": "weapon-10"
+    }, 
+    "ship-72": {
+      "engine": "engine-6", 
+      "hull": "hull-1", 
+      "weapon": "weapon-6"
+    }, 
+    "ship-75": {
+      "engine": "engine-3", 
+      "hull": "hull-3", 
+      "weapon": "weapon-1"
+    }, 
+    "ship-74": {
+      "engine": "engine-3", 
+      "hull": "hull-3", 
+      "weapon": "weapon-6"
+    }, 
+    "ship-77": {
+      "engine": "engine-3", 
+      "hull": "hull-5", 
+      "weapon": "weapon-20"
+    }, 
+    "ship-76": {
+      "engine": "engine-2", 
+      "hull": "hull-4", 
+      "weapon": "weapon-1"
+    }, 
+    "ship-79": {
+      "engine": "engine-4", 
+      "hull": "hull-5", 
+      "weapon": "weapon-11"
+    }, 
+    "ship-78": {
+      "engine": "engine-5", 
+      "hull": "hull-1", 
+      "weapon": "weapon-10"
+    }, 
+    "ship-154": {
+      "engine": "engine-4", 
+      "hull": "hull-5", 
+      "weapon": "weapon-10"
+    }, 
+    "ship-122": {
+      "engine": "engine-5", 
+      "hull": "hull-4", 
+      "weapon": "weapon-18"
+    }, 
+    "ship-123": {
+      "engine": "engine-5", 
+      "hull": "hull-4", 
+      "weapon": "weapon-17"
+    }, 
+    "ship-120": {
+      "engine": "engine-5", 
+      "hull": "hull-4", 
+      "weapon": "weapon-7"
+    }, 
+    "ship-121": {
+      "engine": "engine-2", 
+      "hull": "hull-4", 
+      "weapon": "weapon-3"
+    }, 
+    "ship-126": {
+      "engine": "engine-4", 
+      "hull": "hull-3", 
+      "weapon": "weapon-19"
+    }, 
+    "ship-127": {
+      "engine": "engine-4", 
+      "hull": "hull-4", 
+      "weapon": "weapon-5"
+    }, 
+    "ship-124": {
+      "engine": "engine-4", 
+      "hull": "hull-2", 
+      "weapon": "weapon-8"
+    }, 
+    "ship-125": {
+      "engine": "engine-3", 
+      "hull": "hull-4", 
+      "weapon": "weapon-14"
+    }, 
+    "ship-128": {
+      "engine": "engine-2", 
+      "hull": "hull-3", 
+      "weapon": "weapon-16"
+    }, 
+    "ship-129": {
+      "engine": "engine-5", 
+      "hull": "hull-3", 
+      "weapon": "weapon-19"
+    }, 
+    "ship-166": {
+      "engine": "engine-5", 
+      "hull": "hull-3", 
+      "weapon": "weapon-16"
+    }, 
+    "ship-68": {
+      "engine": "engine-2", 
+      "hull": "hull-2", 
+      "weapon": "weapon-2"
+    }, 
+    "ship-69": {
+      "engine": "engine-2", 
+      "hull": "hull-1", 
+      "weapon": "weapon-18"
+    }, 
+    "ship-66": {
+      "engine": "engine-6", 
+      "hull": "hull-4", 
+      "weapon": "weapon-11"
+    }, 
+    "ship-67": {
+      "engine": "engine-6", 
+      "hull": "hull-3", 
+      "weapon": "weapon-7"
+    }, 
+    "ship-64": {
+      "engine": "engine-5", 
+      "hull": "hull-1", 
+      "weapon": "weapon-13"
+    }, 
+    "ship-65": {
+      "engine": "engine-4", 
+      "hull": "hull-4", 
+      "weapon": "weapon-5"
+    }, 
+    "ship-62": {
+      "engine": "engine-4", 
+      "hull": "hull-4", 
+      "weapon": "weapon-15"
+    }, 
+    "ship-63": {
+      "engine": "engine-1", 
+      "hull": "hull-3", 
+      "weapon": "weapon-11"
+    }, 
+    "ship-60": {
+      "engine": "engine-5", 
+      "hull": "hull-3", 
+      "weapon": "weapon-11"
+    }, 
+    "ship-61": {
+      "engine": "engine-2", 
+      "hull": "hull-1", 
+      "weapon": "weapon-19"
+    }, 
+    "ship-135": {
+      "engine": "engine-6", 
+      "hull": "hull-1", 
+      "weapon": "weapon-18"
+    }, 
+    "ship-134": {
+      "engine": "engine-4", 
+      "hull": "hull-5", 
+      "weapon": "weapon-7"
+    }, 
+    "ship-137": {
+      "engine": "engine-6", 
+      "hull": "hull-5", 
+      "weapon": "weapon-14"
+    }, 
+    "ship-136": {
+      "engine": "engine-1", 
+      "hull": "hull-3", 
+      "weapon": "weapon-1"
+    }, 
+    "ship-131": {
+      "engine": "engine-1", 
+      "hull": "hull-5", 
+      "weapon": "weapon-12"
+    }, 
+    "ship-130": {
+      "engine": "engine-6", 
+      "hull": "hull-5", 
+      "weapon": "weapon-18"
+    }, 
+    "ship-133": {
+      "engine": "engine-4", 
+      "hull": "hull-2", 
+      "weapon": "weapon-14"
+    }, 
+    "ship-132": {
+      "engine": "engine-5", 
+      "hull": "hull-1", 
+      "weapon": "weapon-2"
+    }, 
+    "ship-162": {
+      "engine": "engine-4", 
+      "hull": "hull-5", 
+      "weapon": "weapon-5"
+    }, 
+    "ship-139": {
+      "engine": "engine-4", 
+      "hull": "hull-5", 
+      "weapon": "weapon-9"
+    }, 
+    "ship-138": {
+      "engine": "engine-6", 
+      "hull": "hull-5", 
+      "weapon": "weapon-13"
+    }, 
+    "ship-163": {
+      "engine": "engine-2", 
+      "hull": "hull-3", 
+      "weapon": "weapon-4"
+    }, 
+    "ship-160": {
+      "engine": "engine-3", 
+      "hull": "hull-4", 
+      "weapon": "weapon-10"
+    }, 
+    "ship-161": {
+      "engine": "engine-3", 
+      "hull": "hull-4", 
+      "weapon": "weapon-2"
+    }
+  }, 
+  "engines": {
+    "engine-5": {
+      "type": 20, 
+      "power": 68
+    }, 
+    "engine-4": {
+      "type": 35, 
+      "power": 23
+    }, 
+    "engine-6": {
+      "type": 2, 
+      "power": 68
+    }, 
+    "engine-1": {
+      "type": 50, 
+      "power": 76
+    }, 
+    "engine-3": {
+      "type": 83, 
+      "power": 16
+    }, 
+    "engine-2": {
+      "type": 8, 
+      "power": 25
+    }
+  }
+}
